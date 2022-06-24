@@ -1,3 +1,5 @@
 this is branch hot fix
 master 
+hot-fix
+>>>>>>> hot-fix
 hello athechen hello git!
